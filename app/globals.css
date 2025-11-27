@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+#devtools-indicator {
+  display: none !important;
+}
